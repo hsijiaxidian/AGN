@@ -1,4 +1,4 @@
-This file contains the original MATLAB code accompanying the paper "Globally Q-linear Gauss-Newton Method for Overparameterized Non-convex Matrix Sensing," published at NeurIPS 2024.
+This file contains the original source code accompanying the paper "Globally Q-linear Gauss-Newton Method for Overparameterized Non-convex Matrix Sensing," published at NeurIPS 2024.
 https://proceedings.neurips.cc/paper_files/paper/2024/file/244da015b91e64f2d9362703fa2a902b-Paper-Conference.pdf
 
 ## Citation

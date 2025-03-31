@@ -8,7 +8,7 @@ If you use this code or reference the paper in your work, please cite the follow
 ```bibtex
 @inproceedings{author2024title,
   title={Globally Q-linear Gauss-Newton Method for Overparameterized Non-convex Matrix Sensing},
-  author={Author1, Author2, and Author3},
+  author={Xixi JIa, Fangchen Feng, Deyu Meng and Defeng Sun},
   booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
   year={2024}
 }

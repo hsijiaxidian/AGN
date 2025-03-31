@@ -6,9 +6,9 @@ https://proceedings.neurips.cc/paper_files/paper/2024/file/244da015b91e64f2d9362
 If you use this code or reference the paper in your work, please cite the following:
 
 ```bibtex
-@inproceedings{author2024title,
+@inproceedings{Jiaglobal2024,
   title={Globally Q-linear Gauss-Newton Method for Overparameterized Non-convex Matrix Sensing},
-  author={Xixi JIa, Fangchen Feng, Deyu Meng and Defeng Sun},
+  author={Xixi Jia, Fangchen Feng, Deyu Meng and Defeng Sun},
   booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
   year={2024}
 }
